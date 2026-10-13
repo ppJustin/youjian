@@ -1,0 +1,80 @@
+100%|█████████▉| 99978/100000 [32:03:03<00:26,  1.18s/it, data_times=0.001, model_times=1.285]
+100%|█████████▉| 99979/100000 [32:03:04<00:23,  1.14s/it, data_times=0.001, model_times=1.285]
+100%|█████████▉| 99979/100000 [32:03:04<00:23,  1.14s/it, data_times=0.017, model_times=1.011]
+100%|█████████▉| 99980/100000 [32:03:05<00:23,  1.18s/it, data_times=0.017, model_times=1.011]
+100%|█████████▉| 99980/100000 [32:03:05<00:23,  1.18s/it, data_times=0.043, model_times=1.249]
+100%|█████████▉| 99981/100000 [32:03:06<00:21,  1.14s/it, data_times=0.043, model_times=1.249]
+100%|█████████▉| 99981/100000 [32:03:06<00:21,  1.14s/it, data_times=0.001, model_times=1.022]
+100%|█████████▉| 99982/100000 [32:03:07<00:21,  1.18s/it, data_times=0.001, model_times=1.022]
+100%|█████████▉| 99982/100000 [32:03:07<00:21,  1.18s/it, data_times=0.001, model_times=1.268]
+100%|█████████▉| 99983/100000 [32:03:08<00:20,  1.20s/it, data_times=0.001, model_times=1.268]
+100%|█████████▉| 99983/100000 [32:03:08<00:20,  1.20s/it, data_times=0.012, model_times=1.241]
+100%|█████████▉| 99984/100000 [32:03:09<00:18,  1.15s/it, data_times=0.012, model_times=1.241]
+100%|█████████▉| 99984/100000 [32:03:09<00:18,  1.15s/it, data_times=0.030, model_times=1.007]
+100%|█████████▉| 99985/100000 [32:03:11<00:17,  1.18s/it, data_times=0.030, model_times=1.007]
+100%|█████████▉| 99985/100000 [32:03:11<00:17,  1.18s/it, data_times=0.001, model_times=1.251]
+100%|█████████▉| 99986/100000 [32:03:12<00:15,  1.13s/it, data_times=0.001, model_times=1.251]
+100%|█████████▉| 99986/100000 [32:03:12<00:15,  1.13s/it, data_times=0.001, model_times=1.002]
+100%|█████████▉| 99987/100000 [32:03:13<00:14,  1.09s/it, data_times=0.001, model_times=1.002]
+100%|█████████▉| 99987/100000 [32:03:13<00:14,  1.09s/it, data_times=0.014, model_times=0.998]
+100%|█████████▉| 99988/100000 [32:03:14<00:14,  1.17s/it, data_times=0.014, model_times=0.998]
+100%|█████████▉| 99988/100000 [32:03:14<00:14,  1.17s/it, data_times=0.034, model_times=1.326]
+100%|█████████▉| 99989/100000 [32:03:15<00:12,  1.14s/it, data_times=0.034, model_times=1.326]
+100%|█████████▉| 99989/100000 [32:03:15<00:12,  1.14s/it, data_times=0.001, model_times=1.070]
+100%|█████████▉| 99990/100000 [32:03:16<00:11,  1.11s/it, data_times=0.001, model_times=1.070]
+100%|█████████▉| 99990/100000 [32:03:16<00:11,  1.11s/it, data_times=0.001, model_times=1.027]
+100%|█████████▉| 99991/100000 [32:03:17<00:09,  1.08s/it, data_times=0.001, model_times=1.027]
+100%|█████████▉| 99991/100000 [32:03:17<00:09,  1.08s/it, data_times=0.014, model_times=1.002]
+100%|█████████▉| 99992/100000 [32:03:18<00:09,  1.14s/it, data_times=0.014, model_times=1.002]
+100%|█████████▉| 99992/100000 [32:03:18<00:09,  1.14s/it, data_times=0.030, model_times=1.245]
+100%|█████████▉| 99993/100000 [32:03:19<00:07,  1.11s/it, data_times=0.030, model_times=1.245]
+100%|█████████▉| 99993/100000 [32:03:19<00:07,  1.11s/it, data_times=0.001, model_times=1.026]
+100%|█████████▉| 99994/100000 [32:03:21<00:06,  1.15s/it, data_times=0.001, model_times=1.026]
+100%|█████████▉| 99994/100000 [32:03:21<00:06,  1.15s/it, data_times=0.001, model_times=1.244]
+100%|█████████▉| 99995/100000 [32:03:22<00:05,  1.11s/it, data_times=0.001, model_times=1.244]
+100%|█████████▉| 99995/100000 [32:03:22<00:05,  1.11s/it, data_times=0.011, model_times=1.003]
+100%|█████████▉| 99996/100000 [32:03:23<00:04,  1.16s/it, data_times=0.011, model_times=1.003]
+100%|█████████▉| 99996/100000 [32:03:23<00:04,  1.16s/it, data_times=0.030, model_times=1.253]
+100%|█████████▉| 99997/100000 [32:03:24<00:03,  1.20s/it, data_times=0.030, model_times=1.253]
+100%|█████████▉| 99997/100000 [32:03:24<00:03,  1.20s/it, data_times=0.001, model_times=1.277]
+100%|█████████▉| 99998/100000 [32:03:25<00:02,  1.14s/it, data_times=0.001, model_times=1.277]
+100%|█████████▉| 99998/100000 [32:03:25<00:02,  1.14s/it, data_times=0.001, model_times=0.998]
+100%|█████████▉| 99999/100000 [32:03:27<00:01,  1.18s/it, data_times=0.001, model_times=0.998]
+100%|█████████▉| 99999/100000 [32:03:27<00:01,  1.18s/it, data_times=0.014, model_times=1.264]
+100%|██████████| 100000/100000 [32:03:28<00:00,  1.14s/it, data_times=0.014, model_times=1.264]
+100%|██████████| 100000/100000 [32:03:28<00:00,  1.14s/it, data_times=0.032, model_times=1.018]10/11 [03:12:22] INFO     | >> Step 100000, Loss:           train_starvla.py:276
+                          {'action_dit_loss':                                   
+                          0.0017695465357974172,                                
+                          'mse_score':                                          
+                          5.3423273909304824e-05,                               
+                          'data_time': 0.03173341974616051,                     
+                          'model_time': 1.0184363890439272,                     
+                          'learning_rate': 5e-08, 'epoch':                      
+                          7.2})                                                 
+✅ Checkpoint saved at ./results/Checkpoints/vlact_domino_qwen3oft_angularfix/checkpoints/steps_100000
+10/11 [03:12:33] INFO     | >> 📊 Saving accessed           train_starvla.py:263
+                          configuration...                                      
+                 INFO     | >> ✅ Configuration files saved train_starvla.py:266
+10/11 [03:12:44] INFO     | >> Training complete. Final     train_starvla.py:470
+                          model saved at                                        
+                          ./results/Checkpoints/vlact_domin                     
+                          o_qwen3oft_angularfix/final_model                     
+
+100%|██████████| 100000/100000 [32:03:50<00:00,  1.15s/it, data_times=0.032, model_times=1.018]
+                 INFO     | >> ... and that's all, folks!   train_starvla.py:501
+gpu-025-instance:257:2279958 [6] NCCL INFO comm 0x55d1245d8240 rank 6 nranks 8 cudaDev 6 busId bb000 - Destroy COMPLETE
+gpu-025-instance:254:2279956 [3] NCCL INFO comm 0x55ac64c1d580 rank 3 nranks 8 cudaDev 3 busId 67000 - Destroy COMPLETE
+gpu-025-instance:258:2279953 [7] NCCL INFO comm 0x563c61972780 rank 7 nranks 8 cudaDev 7 busId db000 - Destroy COMPLETE
+gpu-025-instance:255:2279955 [4] NCCL INFO comm 0x55c7cfd9fe50 rank 4 nranks 8 cudaDev 4 busId 9b000 - Destroy COMPLETE
+gpu-025-instance:251:2279960 [0] NCCL INFO comm 0x55b9fb2edd50 rank 0 nranks 8 cudaDev 0 busId e000 - Destroy COMPLETE
+gpu-025-instance:256:2279959 [5] NCCL INFO comm 0x556dcd573fc0 rank 5 nranks 8 cudaDev 5 busId ab000 - Destroy COMPLETE
+gpu-025-instance:252:2279957 [1] NCCL INFO comm 0x55c518fbafc0 rank 1 nranks 8 cudaDev 1 busId 15000 - Destroy COMPLETE
+gpu-025-instance:253:2279954 [2] NCCL INFO comm 0x56122b331000 rank 2 nranks 8 cudaDev 2 busId 1c000 - Destroy COMPLETE
+gpu-025-instance:254:2279964 [3] NCCL INFO comm 0x55ac69263950 rank 3 nranks 8 cudaDev 3 busId 67000 - Destroy COMPLETE
+gpu-025-instance:256:2279972 [5] NCCL INFO comm 0x556dc10828d0 rank 5 nranks 8 cudaDev 5 busId ab000 - Destroy COMPLETE
+gpu-025-instance:257:2279962 [6] NCCL INFO comm 0x55d1201c4fb0 rank 6 nranks 8 cudaDev 6 busId bb000 - Destroy COMPLETE
+gpu-025-instance:255:2279968 [4] NCCL INFO comm 0x55c7cad41780 rank 4 nranks 8 cudaDev 4 busId 9b000 - Destroy COMPLETE
+gpu-025-instance:258:2279967 [7] NCCL INFO comm 0x563c8c0e5ff0 rank 7 nranks 8 cudaDev 7 busId db000 - Destroy COMPLETE
+gpu-025-instance:252:2279974 [1] NCCL INFO comm 0x55c4c7638940 rank 1 nranks 8 cudaDev 1 busId 15000 - Destroy COMPLETE
+gpu-025-instance:251:2279971 [0] NCCL INFO comm 0x55ba059129e0 rank 0 nranks 8 cudaDev 0 busId e000 - Destroy COMPLETE
+gpu-025-instance:253:2279976 [2] NCCL INFO comm 0x5611ba11ac40 rank 2 nranks 8 cudaDev 2 busId 1c000 - Destroy COMPLETE
